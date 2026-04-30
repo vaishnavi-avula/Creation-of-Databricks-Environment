@@ -1,1 +1,0 @@
-C:\Users\mohan\AppData\Local\Python\pythoncore-3.14-64\Scripts\databricks.exe secrets create-scope --scope kv-healthstartup --scope-backend-type AZURE_KEYVAULT --resource-id /subscriptions/2e4d86c9-3434-492e-8aa0-1510148509c9/resourceGroups/rg-healthstartup-prod/providers/Microsoft.KeyVault/vaults/kv-healthstartup-prod --dns-name https://kv-healthstartup-prod.vault.azure.net/
